@@ -16,6 +16,7 @@ public class ContaTerminal {
         System.out.println("Informe o número da conta");
         int conta = scanner.nextInt();
 
+        
         System.out.println("Informe sua agência");
         String agencia = scanner.next();
 
